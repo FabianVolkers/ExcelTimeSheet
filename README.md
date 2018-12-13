@@ -1,2 +1,2 @@
 # ExcelTimeSheet
-Semi automated timesheet in for Microsoft Excel
+Semi automated timesheet in Microsoft Excel
